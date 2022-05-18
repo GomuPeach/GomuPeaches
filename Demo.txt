@@ -7,3 +7,7 @@ You have created a repository name "GomuPeaches"
 
 === New line added for first time:-
 To check how the commit works along with comments
+
+
+=== Adding Lines after creating new branch 
+GomuPeach-Develop.1.0 
