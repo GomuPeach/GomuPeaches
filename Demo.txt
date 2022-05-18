@@ -1,0 +1,6 @@
+Welcome this a demo for working on git.
+
+Opened in github.com
+username:-saikiran.suasarla@posidex.com
+password:-Ptpl!234
+You have created a repository name "GomuPeaches"
