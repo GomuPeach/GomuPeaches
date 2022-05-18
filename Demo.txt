@@ -9,5 +9,11 @@ You have created a repository name "GomuPeaches"
 To check how the commit works along with comments
 
 
+
+=== To know how commit works
+We can commit in master branch or can do in new branch.
+Now i am creating new branch.
+
 === Adding Lines after creating new branch 
 GomuPeach-Develop.1.0 
+
